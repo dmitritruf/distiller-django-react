@@ -1864,9 +1864,9 @@
   version "0.0.29"
   resolved "https://registry.npmjs.org/@types/json5/-/json5-0.0.29.tgz"
 
-"@types/luxon@^2.0.9":
-  version "2.0.9"
-  resolved "https://registry.npmjs.org/@types/luxon/-/luxon-2.0.9.tgz"
+"@types/luxon@^2.3.2":
+  version "2.3.2"
+  resolved "https://registry.yarnpkg.com/@types/luxon/-/luxon-2.3.2.tgz#8a3f2cdd4858ce698b56cd8597d9243b8e9d3c65"
 
 "@types/minimatch@^3.0.3":
   version "3.0.5"
