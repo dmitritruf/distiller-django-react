@@ -1864,9 +1864,9 @@
   version "0.0.29"
   resolved "https://registry.npmjs.org/@types/json5/-/json5-0.0.29.tgz"
 
-"@types/luxon@^2.0.9":
-  version "2.0.9"
-  resolved "https://registry.npmjs.org/@types/luxon/-/luxon-2.0.9.tgz"
+"@types/luxon@^3.0.0":
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/@types/luxon/-/luxon-3.0.0.tgz#47fb7891e41875fce7018a8bd3d09b204c5621f5"
 
 "@types/minimatch@^3.0.3":
   version "3.0.5"
@@ -5474,9 +5474,9 @@ lru-cache@^6.0.0:
   dependencies:
     yallist "^4.0.0"
 
-luxon@^2.3.1:
-  version "2.3.1"
-  resolved "https://registry.npmjs.org/luxon/-/luxon-2.3.1.tgz"
+luxon@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/luxon/-/luxon-3.0.1.tgz#6901111d10ad06fd267ad4e4128a84bef8a77299"
 
 lz-string@^1.4.4:
   version "1.4.4"
